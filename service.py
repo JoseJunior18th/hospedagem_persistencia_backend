@@ -7,7 +7,7 @@ def saveExecute(data):
         dbname="activitiesdb",
         user="admin",
         password="admin",
-        host="localhost",
+        host="18.230.95.142",
         port="5432"
     )
 
@@ -62,7 +62,7 @@ def queryDescriptions():
         dbname="activitiesdb",
         user="admin",
         password="admin",
-        host="localhost",
+        host="18.230.95.142",
         port="5432"
     )
 
